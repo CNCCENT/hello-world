@@ -1,3 +1,3 @@
 # hello-world 
 Iam a tinker of many things
-new program
+3d printing parts to make bigger project
